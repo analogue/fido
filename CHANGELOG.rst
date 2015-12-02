@@ -1,3 +1,7 @@
+2.1.1
+---------------------
+- Require twisted < 15.5.0 since Python 2.6 support was dropped
+
 2.1.0 (2015-08-06)
 ---------------------
 - Add reason to fido.Response
